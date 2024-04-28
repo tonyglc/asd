@@ -1,0 +1,175 @@
+{
+  "collection_name": "WowUp_export_1713943793983",
+  "client_type": "Retail",
+  "addons":
+    [
+      {
+        "id": "54541",
+        "name": "AddOnSkins",
+        "provider_name": "Curse",
+        "version_id": "4552784"
+      },
+      {
+        "id": "39928",
+        "name": "RCLootCouncil",
+        "provider_name": "Curse",
+        "version_id": "5195234"
+      },
+      {
+        "id": "79879",
+        "name": "Method Raid Tools",
+        "provider_name": "Curse",
+        "version_id": "5164858"
+      },
+      {
+        "id": "4383",
+        "name": "LittleWigs",
+        "provider_name": "Curse",
+        "version_id": "5237114"
+      },
+      {
+        "id": "13344",
+        "name": "BugGrabber",
+        "provider_name": "Curse",
+        "version_id": "5086967"
+      },
+      {
+        "id": "19406",
+        "name": "OPie​",
+        "provider_name": "Curse",
+        "version_id": "5284660"
+      },
+      {
+        "id": "99982",
+        "name": "AdvancedInterfaceOptions",
+        "provider_name": "Curse",
+        "version_id": "5041155"
+      },
+      {
+        "id": "82745",
+        "name": "Simulationcraft",
+        "provider_name": "Curse",
+        "version_id": "5285166"
+      },
+      {
+        "id": "363739",
+        "name": "HandyNotes: Shadowlands",
+        "provider_name": "Curse",
+        "version_id": "4849762"
+      },
+      {
+        "id": "437378",
+        "name": "True Stat Values",
+        "provider_name": "Curse",
+        "version_id": "4944928"
+      },
+      {
+        "id": "6273",
+        "name": "BugSack",
+        "provider_name": "Curse",
+        "version_id": "5086970"
+      },
+      {
+        "id": "369265",
+        "name": "HidingBar",
+        "provider_name": "Curse",
+        "version_id": "5270212"
+      },
+      {
+        "id": "61284",
+        "name": "Details! Damage Meter",
+        "provider_name": "Curse",
+        "version_id": "5286655"
+      },
+      {
+        "id": "288981",
+        "name": "Mythic Dungeon Tools - MDT",
+        "provider_name": "Curse",
+        "version_id": "5286667"
+      },
+      {
+        "id": "2382",
+        "name": "BigWigs Boss Mods (BW) - DBM alternative",
+        "provider_name": "Curse",
+        "version_id": "5273277"
+      },
+      {
+        "id": "100610",
+        "name": "World Quest Tracker",
+        "provider_name": "Curse",
+        "version_id": "5211123"
+      },
+      {
+        "id": "306489",
+        "name": "OmniCD - Party Cooldown Tracker",
+        "provider_name": "Curse",
+        "version_id": "5197242"
+      },
+      {
+        "id": "14154",
+        "name": "HandyNotes",
+        "provider_name": "Curse",
+        "version_id": "5197165"
+      },
+      {
+        "id": "86342",
+        "name": "HandyNotes: Warlords of Draenor (Treasure Hunter + Rares)",
+        "provider_name": "Curse",
+        "version_id": "4856292"
+      },
+      {
+        "id": "605372",
+        "name": "HandyNotes: Dragonflight",
+        "provider_name": "Curse",
+        "version_id": "5038814"
+      },
+      {
+        "id": "100547",
+        "name": "Plater Nameplates",
+        "provider_name": "Curse",
+        "version_id": "5286133"
+      },
+      {
+        "id": "14502",
+        "name": "Postal",
+        "provider_name": "Curse",
+        "version_id": "5198207"
+      },
+      {
+        "id": "678792",
+        "name": "Talent Tree Tweaks | Dragonflight",
+        "provider_name": "Curse",
+        "version_id": "5270147"
+      },
+      {
+        "id": "102911",
+        "name": "Twitch Emotes v2",
+        "provider_name": "Curse",
+        "version_id": "5142017"
+      },
+      {
+        "id": "48863",
+        "name": "Myslot",
+        "provider_name": "Curse",
+        "version_id": "5154113"
+      },
+      {
+        "id": "301812",
+        "name": "SharedMedia_Causese",
+        "provider_name": "Curse",
+        "version_id": "5271062"
+      },
+      {
+        "id": "460155",
+        "name": "WarpDeplete",
+        "provider_name": "Curse",
+        "version_id": "5178135"
+      },
+      {
+        "id": "101192",
+        "name": "NameplateAuras",
+        "provider_name": "Curse",
+        "version_id": "5282828"
+      }
+    ]
+}
